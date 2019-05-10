@@ -1,0 +1,11 @@
+
+public class PrintFace {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("      -------------\n    |      xxxxx    |\n    |     x     x   |\n    |   ((  o o  )) | \n    |     |  V  |   | \n    |     | === |   | \n    |      -----    |\n      ------------- \nGeorge Washington Tiki Man");//each "\n represents the start of a new line, and everything in quotes is being printed 
+
+	}
+
+}
+//To go above and beyond, I turned the face into a framed and titled portrait
